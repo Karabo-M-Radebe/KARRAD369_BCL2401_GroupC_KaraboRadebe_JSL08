@@ -36,4 +36,26 @@ Design patterns like Singleton, Factory, and Observer can significantly improve 
 
 This challenge will test your ability to create a function with the Singleton Pattern. Woohoo! Your first design pattern!
 
+# Project Overview
+
+
+# Project Brief
+
+
+
+# Elements included 
+
+
+# Reflections 
+
+### Areas of mastery 
+
+
+### Challenges faced 
+
+
+### Areas of Improvement 
+
+
+## Overall learning experience
 
